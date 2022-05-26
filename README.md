@@ -173,6 +173,16 @@ Next, I wanted to compare the difference in average ride length between casual r
 Finally I compared how the type of bike hired compared between the two rider categories. 
 
 ### Data Visualization
-Here are the followig Dashboards created with the help of tool called tableau
+Here are the followig Visualization  Dashbord Results created with the help of tool called Tableau :-
+
+* Overall Dashboard Of Daily trend Analysis which contains the following Charts:-
+  
+  **Trip Duration Summary,Total Ride length,Daily Trend By Month,Daily Trend Analysis**
+  ![daily trend analysis](images/Overall%20Dashboard.png)
+
+* The second Dashboard named User Type Analysis Cotains the following charts:-
+  
+  **
+
 
 

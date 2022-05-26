@@ -184,6 +184,10 @@ Here are the followig Visualization  Dashbord Results created with the help of t
   
   **Daily Trends - Member,Daily Trends - Casual,Trend By MONTH,TREND BY TIME**
   ![user type analysis](images/User%20Type%20Analysis.png)
+  
+ * Top 20 station visit by casual riders
+ 
+ ![station vs casual](images/Start%20Station%20Vs%20Casual%20Ride.png)
 
 
 

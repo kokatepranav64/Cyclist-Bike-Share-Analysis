@@ -189,7 +189,7 @@ Here are the followig Visualization  Dashbord Results created with the help of t
  
  ![station vs casual](images/Start%20Station%20Vs%20Casual%20Ride.png)
  
- To check My Tableau visualization And Tableau presentation click on thi [link](https://public.tableau.com/views/CyclistBikesharedata-AnalysisAndvisualization/cyclistBikeShareAnalysisAndVisulization?:language=en-US&:display_count=n&:origin=viz_share_link)
+ To check My Tableau visualizations And Tableau presentations click on this [link](https://public.tableau.com/views/CyclistBikesharedata-AnalysisAndvisualization/cyclistBikeShareAnalysisAndVisulization?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Summary
 

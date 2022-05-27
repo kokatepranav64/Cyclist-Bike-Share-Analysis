@@ -46,7 +46,7 @@ To process the data from dirty to clean, I chose to use **R.** This is because R
 for visualization because of wide variety of selection of visualization tools.
 
 I aslo clean, Analyze and visualize data with **MS Excel** . This is for learning and exploring purpose and For also gaining new skills.
-* Here's my [link](https://drive.google.com/drive/folders/14-fBJGaoDNkunzCGN5RV2BBOxaANuIuh?usp=sharing) to chek my **Ms Excel** Project.
+* **Here's my** [link](https://drive.google.com/drive/folders/14-fBJGaoDNkunzCGN5RV2BBOxaANuIuh?usp=sharing) to chek my **Ms Excel** Project.
 
 ### Cleaning the data
 First I install & load all necessary libraries cleaning and Analyzing data
@@ -191,7 +191,16 @@ Here are the followig Visualization  Dashbord Results created with the help of t
  
  ![station vs casual](images/Start%20Station%20Vs%20Casual%20Ride.png)
  
- To check My Tableau visualizations And Tableau presentations click on this [link](https://public.tableau.com/views/CyclistBikesharedata-AnalysisAndvisualization/cyclistBikeShareAnalysisAndVisulization?:language=en-US&:display_count=n&:origin=viz_share_link)
+ * Visualization on the basis of  **Usertype ,sum(ride length(hrs)),Days of Week**
+ 
+ ![image5](images/Sheet%2010.png) 
+ 
+ * Total Ride Length By Users On The Basis Of TimeBlock
+ 
+ ![images5](images/Sheet%2013.png)
+ 
+ 
+ **To check My Tableau visualizations And Tableau presentations click on this** [link](https://public.tableau.com/views/CyclistBikesharedata-AnalysisAndvisualization/cyclistBikeShareAnalysisAndVisulization?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Summary
 

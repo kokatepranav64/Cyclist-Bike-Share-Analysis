@@ -229,7 +229,7 @@ Casual riders tend to have longer rides.
 
 * Special weekend rates beneficial for longer rides.
 
-*Special commute-to-work member packages.
+* Special commute-to-work member packages.
 
 * Member rewards programs based on covered distance, ride duration, and ride frequencies.
 

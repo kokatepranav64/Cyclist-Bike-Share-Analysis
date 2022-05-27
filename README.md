@@ -172,7 +172,7 @@ Next, I wanted to compare the difference in average ride length between casual r
 
 Finally I compared how the type of bike hired compared between the two rider categories. 
 
-### Data Visualization
+## Data Visualization
 Here are the followig Visualization  Dashbord Results created with the help of tool called Tableau :-
 
 * Overall Dashboard Of Daily trend Analysis which contains the following Charts:-
@@ -202,7 +202,7 @@ Here are the followig Visualization  Dashbord Results created with the help of t
  
  **To check My Tableau visualizations And Tableau presentations click on this** [link](https://public.tableau.com/views/CyclistBikesharedata-AnalysisAndvisualization/cyclistBikeShareAnalysisAndVisulization?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Summary
+## Summary
 
 The total trip duration for casual riders and annual members is affected by season. The temperature is very low during the winter season, fewer people are willing to go out and people who need to travel daily for work will choose to take other public transport, this had caused the total trip duration are the lowest among another season. 
 
@@ -219,7 +219,7 @@ Casual rides are more popular in the coastal line from Uptown to South Shore.
 
 Casual riders tend to have longer rides.
 
-### Recommendations
+## Recommendations
 
 * Launch marketing campaigns in Summer (from June to August).
 

@@ -178,11 +178,13 @@ Here are the followig Visualization  Dashbord Results created with the help of t
 * Overall Dashboard Of Daily trend Analysis which contains the following Charts:-
   
   **Trip Duration Summary,Total Ride length,Daily Trend By Month,Daily Trend Analysis**
+  
   ![daily trend analysis](images/Overall%20Dashboard.png)
 
 * The second Dashboard named "User Type Analysis" Cotains the following charts:-
   
   **Daily Trends - Member,Daily Trends - Casual,Trend By MONTH,TREND BY TIME**
+  
   ![user type analysis](images/User%20Type%20Analysis.png)
   
  * Top 20 station visit by casual riders
